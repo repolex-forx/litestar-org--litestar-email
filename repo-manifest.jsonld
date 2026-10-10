@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/litestar-email/commit/270f3d370e07a7effe6aa93e58d4eea1f6e1bf1b",
       "git:hexsha": "270f3d370e07a7effe6aa93e58d4eea1f6e1bf1b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T19:55:24.845060+00:00"
     },
     {
       "@id": "https://repolex.ai/r/litestar-org/litestar-email/commit/a47cb86b5efeb31d3f5651dc0b07047a894838b3",
