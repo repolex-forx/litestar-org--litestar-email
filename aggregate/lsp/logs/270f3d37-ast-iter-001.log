@@ -1,0 +1,7 @@
+[2026-10-10T19:52:52Z] === AST ITERATION 1 START | repo=litestar-org/litestar-email sha=270f3d37 ===
+[2026-10-10T19:52:52Z] [iter=1] PHASE START: ast repo=litestar-org/litestar-email sha=270f3d37
+[2026-10-10T19:52:52Z] [iter=1] Building AST aggregate chunks
+[2026-10-10T19:53:17Z] [iter=1] AST chunks built count=1 triples=220761
+[2026-10-10T19:53:17Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/270f3d370e07a7effe6aa93e58d4eea1f6e1bf1b/.complete
+[2026-10-10T19:53:17Z] [iter=1] PHASE END: ast elapsed_s=25 elapsed_min=0.4
+[2026-10-10T19:53:17Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
